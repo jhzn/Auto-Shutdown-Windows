@@ -1,0 +1,14 @@
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\bin\Debug\Auto-Shutdown Program.exe.config
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\bin\Debug\Auto-Shutdown Program.exe
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\bin\Debug\Auto-Shutdown Program.pdb
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program.csprojResolveAssemblyReference.cache
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\MainWindow.g.cs
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\App.g.cs
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program_MarkupCompile.cache
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program_MarkupCompile.lref
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\MainWindow.baml
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program.g.resources
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto_Shutdown_Program.Properties.Resources.resources
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program.csproj.GenerateResource.Cache
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program.exe
+c:\users\johan\documents\visual studio 2015\Projects\Auto-Shutdown Program\Auto-Shutdown Program\obj\Debug\Auto-Shutdown Program.pdb

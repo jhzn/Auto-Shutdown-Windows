@@ -1,0 +1,23 @@
+﻿<Window x:Name="Avstängnings_Program" x:Class="Auto_Shutdown_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Auto_Shutdown_Program"
+        mc:Ignorable="d"
+        Title="Auto-Shutdown Program" Height="350" Width="525" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="98*"/>
+            <ColumnDefinition Width="322*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button_90min" Content="90 min" HorizontalAlignment="Left" Margin="6,71,0,0" VerticalAlignment="Top" Width="121" Height="187" Click="button_Click_90min" Grid.Column="2" FontSize="21.333"/>
+        <Button x:Name="button_Avbryt" Content="ABORT" HorizontalAlignment="Left" Margin="177,71,0,0" VerticalAlignment="Top" Width="119" Height="83" Click="button_Click_Avbryt" Grid.Column="2" FontSize="21.333"/>
+        <Label x:Name="label" Content="Auto-Shutdown Program" Margin="50.58,24,0,0" FontSize="18.667" Height="47" VerticalAlignment="Top" HorizontalAlignment="Left" Width="245" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Button x:Name="button_60min" Content="60 min" HorizontalAlignment="Left" Margin="27,71,0,0" VerticalAlignment="Top" Width="121" Height="187" Click="button_Click_60min" Grid.ColumnSpan="2" FontSize="21.333"/>
+        <Button x:Name="button" Content="OFF" Grid.Column="2" HorizontalAlignment="Left" Margin="177,167,0,0" VerticalAlignment="Top" Width="113" Click="button_Click" Height="91" FontSize="21.333"/>
+
+    </Grid>
+</Window>
