@@ -95,6 +95,7 @@ namespace Auto_Shutdown_Program
 
         private void buttonPlus_Click(object sender, RoutedEventArgs e)
         {
+            
             current += 10;
             currentLabel1.Content = current;
 

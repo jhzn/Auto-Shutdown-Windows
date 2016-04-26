@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icon1.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("iconka-meow-2-cat-sleep.ico")]
 
 

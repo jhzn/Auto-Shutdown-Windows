@@ -13,14 +13,14 @@
             <ColumnDefinition Width="322*"/>
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="button_90min" Content="90 min" HorizontalAlignment="Left" Margin="25,166,0,0" VerticalAlignment="Top" Width="121" Height="113" Click="button_Click_90min" Grid.Column="2" FontSize="21.333"/>
-        <Button x:Name="button_Avbryt" Content="ABORT" HorizontalAlignment="Left" Margin="179,32,0,0" VerticalAlignment="Top" Width="119" Height="100" Click="button_Click_Avbryt" Grid.Column="2" FontSize="21.333"/>
-        <Button x:Name="button_60min" Content="60 min" HorizontalAlignment="Left" Margin="27,166,0,0" VerticalAlignment="Top" Width="121" Height="113" Click="button_Click_60min" Grid.ColumnSpan="2" FontSize="21.333"/>
-        <Button x:Name="button" Content="SHUT&#xD;&#xA;DOWN&#xD;&#xA;NOW" Grid.Column="2" HorizontalAlignment="Left" Margin="179,166,0,0" VerticalAlignment="Top" Width="119" Click="button_Click" Height="113" FontSize="21.333"/>
-        <Label x:Name="currentLabel" HorizontalAlignment="Left" Margin="47,66,0,0" VerticalAlignment="Top" Width="62" Grid.Column="1" Grid.ColumnSpan="2"/>
-        <Button x:Name="buttonPlus" Content="+" Grid.Column="2" HorizontalAlignment="Left" Margin="25,32,0,0" VerticalAlignment="Top" Width="121" Height="100" FontSize="22" FontWeight="Bold" Click="buttonPlus_Click"/>
-        <Button x:Name="buttonMinus" Content="-&#xD;&#xA;" HorizontalAlignment="Left" Margin="27,32,0,0" VerticalAlignment="Top" Width="121" Height="100" Grid.ColumnSpan="2" FontSize="22" FontWeight="Bold" Click="buttonMinus_Click"/>
-        <Label x:Name="currentLabel1" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="72,54,0,0" VerticalAlignment="Top" Height="59" Width="78" Grid.ColumnSpan="2" FontSize="16"/>
+        <Button x:Name="button_90min" Content="90 min" HorizontalAlignment="Left" Margin="25,167,0,0" VerticalAlignment="Top" Width="121" Height="113" Click="button_Click_90min" Grid.Column="2" FontSize="21.333"/>
+        <Button x:Name="button_Avbryt" Content="ABORT" HorizontalAlignment="Left" Margin="179,33,0,0" VerticalAlignment="Top" Width="119" Height="100" Click="button_Click_Avbryt" Grid.Column="2" FontSize="21.333"/>
+        <Button x:Name="button_60min" Content="60 min" HorizontalAlignment="Left" Margin="27,167,0,0" VerticalAlignment="Top" Width="121" Height="113" Click="button_Click_60min" Grid.ColumnSpan="2" FontSize="21.333"/>
+        <Button x:Name="button" Content="SHUT&#xD;&#xA;DOWN&#xD;&#xA;NOW" Grid.Column="2" HorizontalAlignment="Left" Margin="179,167,0,0" VerticalAlignment="Top" Width="119" Click="button_Click" Height="113" FontSize="21.333"/>
+        <Label x:Name="currentLabel" HorizontalAlignment="Left" Margin="47,67,0,0" VerticalAlignment="Top" Width="62" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button x:Name="buttonPlus" Content="+" Grid.Column="2" HorizontalAlignment="Left" Margin="25,33,0,0" VerticalAlignment="Top" Width="121" Height="100" FontSize="22" FontWeight="Bold" Click="buttonPlus_Click"/>
+        <Button x:Name="buttonMinus" Content="-&#xD;&#xA;" HorizontalAlignment="Left" Margin="27,33,0,0" VerticalAlignment="Top" Width="121" Height="100" Grid.ColumnSpan="2" FontSize="22" FontWeight="Bold" Click="buttonMinus_Click"/>
+        <Label x:Name="currentLabel1" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="72,55,0,0" VerticalAlignment="Top" Height="59" Width="78" Grid.ColumnSpan="2" FontSize="16"/>
 
     </Grid>
 </Window>
